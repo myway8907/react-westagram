@@ -6,6 +6,9 @@
 - 유호진
 - 이가윤
 - 윤종호
+## 나의 페이지 주소
+"/mainjongho"
+"/loginjongho"
 
 ## Project 소개
 
